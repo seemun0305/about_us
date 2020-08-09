@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">about_us</string>
+    <string name="about_htl">Our HTL was established in 2001. We provide clients with various services related to haircuts, such as haircuts and hair coloring. At the same time, we also sell hair care products and shampoos.</string>
+    <string name="hair_cut">Our barbers are all professionally trained. There are no hairstyles they can\'t cut, only hairstyles that customers can\'t think of. As long as they are professionally and flexibly trimmed, anyone can make a gorgeous transformation.</string>
+    <string name="hair_color">Our dyes are both natural and harmless, so customers do not have to worry about sensitive scalp or harmful reactions to the scalp. At the same time, our dye is not easy to decolorize, once the customer\'s hair is dyed with our dye, it will remain forever.</string>
+    <string name="hair_product">Our products are also quality-recognized, and there are absolutely no additives harmful to the human body. So customers can buy and use our products with confidence.</string>
+</resources>
